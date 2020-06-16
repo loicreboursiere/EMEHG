@@ -1,0 +1,3 @@
+[submodule "EMEHG-fx-controller"]
+	path = EMEHG-fx-controller
+	url = https://github.com/loicreboursiere/EMEHG-fx-controller
