@@ -1,3 +1,6 @@
 [submodule "EMEHG-fx-controller"]
 	path = EMEHG-fx-controller
 	url = https://github.com/loicreboursiere/EMEHG-fx-controller
+[submodule "hexaandmapping-lib-pd"]
+	path = hexaandmapping-lib-pd
+	url = https://github.com/loicreboursiere/hexaandmapping-lib-pd
