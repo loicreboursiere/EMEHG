@@ -30,7 +30,7 @@ It is made of :
 + Rasppberry Pi 3 (and then 4)
 + [Audio Injector Octo Sound Card](https://www.audioinjector.net/rpi-octo-hat) (6 inputs/8 outputs)
 + EMEHG-fx-controller v2 (PCB version)
-+ [one 7" touche screen display](https://github.com/loicreboursiere/EMEHG/blob/master/datasheet/TouchScreen-datasheet.pdf)
++ [one 7" touch screen display](https://github.com/loicreboursiere/EMEHG/blob/master/datasheet/TouchScreen-datasheet.pdf)
 + Hexaphonic preamp PCB
 
 In terms of inputs and outputs, EMEHG gives access to :
@@ -47,7 +47,7 @@ The first version is a all-in-a-box version. It is made of :
 + Rasppberry Pi 3 (and then 4)
 + [Audio Injector Octo Sound Card](https://www.audioinjector.net/rpi-octo-hat) (6 inputs/8 outputs)
 + EMEHG-fx-controller v1 (rotary encoders matrix)
-+ [one 7" touche screen display](https://github.com/loicreboursiere/EMEHG/blob/master/datasheet/TouchScreen-datasheet.pdf)
++ [one 7" touch screen display](https://github.com/loicreboursiere/EMEHG/blob/master/datasheet/TouchScreen-datasheet.pdf)
 
 In terms of inputs and outputs, EMEHG gives access to :
 + 6 Jack 6.35mm inputs
