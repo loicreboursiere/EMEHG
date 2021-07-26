@@ -37,6 +37,8 @@ In terms of inputs and outputs, EMEHG gives access to :
 + DIN 5 for MIDI controller connection
 
 For the moment the touchscreen display hasn't been worked on and the GUI of the patch hasn't been adapted to it.
-This will probably never happen as the second version is a rack version with no display at all.
+This will probably never happen as the actual version (v3) is a rack version with no display at all.
+
+This version uses a home-made breakout box (splitting the 13 pin DIN connector of hexaphonic pickup and turning it into 6 Jacks 6.35mm connectors) with symetrical power supply to power hexaphonic pickup. Also v1 of EMEHG-fx-controller has been soldered by hand on perfboards.
 
 
