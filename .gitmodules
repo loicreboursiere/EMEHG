@@ -7,3 +7,6 @@
 [submodule "EMEHG-AsymetricalPower"]
 	path = EMEHG-AsymetricalPower
 	url = https://github.com/loicreboursiere/EMEHG-AsymetricalPower
+[submodule "EMEHG-foot-controller"]
+	path = EMEHG-foot-controller
+	url = https://github.com/loicreboursiere/EMEHG-foot-controller
